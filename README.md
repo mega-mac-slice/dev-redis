@@ -1,4 +1,5 @@
-#bms-docker-redis-4.0.9-1
+# docker-redis-4.0.9-1
+
 Manages docker image for local development.
 
 ### Commands
