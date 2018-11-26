@@ -1,0 +1,9 @@
+{
+  "name": "docker-redis-4.0.9-1",
+  "commands": {
+    "status": "make status",
+    "start": "make check-running",
+    "stop": "make stop"
+  },
+  "stack": []
+}
