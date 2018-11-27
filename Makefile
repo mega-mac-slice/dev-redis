@@ -22,4 +22,4 @@ check-running:
     fi \
 
 status:
-	@echo "todo"
+	@echo "ok"
