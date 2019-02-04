@@ -1,4 +1,4 @@
-# docker-redis-4.0.9-1
+# dev-redis-4.0.9-1
 
 Manages docker image for local development.
 

@@ -1,5 +1,5 @@
 {
-  "name": "docker-redis-4.0.9-1",
+  "name": "dev-redis-4.0.9-1",
   "commands": {
     "status": "make status",
     "start": "make check-running",
